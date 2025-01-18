@@ -1,2 +1,5 @@
-# olaPipe
-Bash pipe to ollama llama model from cli
+![Ola Pipe](olaPipe.jpg)
+
+# OlaPipe
+
+Shortcut to local ollama server from cli
