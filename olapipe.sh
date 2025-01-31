@@ -9,7 +9,7 @@ function usage() {
 
 # Defaults
 prompt=""
-model="llama3.2:latest"
+model="deepseek-r1:1.5b"
 verbose=false
 
 # Parse arguments
